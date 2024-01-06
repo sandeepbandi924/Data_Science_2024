@@ -1,0 +1,475 @@
+2024-01-06 10:26:42,125 WARNING Log warning Message
+2024-01-06 10:26:42,125 ERROR Log error message
+2024-01-06 10:26:42,126 WARNING Log warning Message
+2024-01-06 10:26:42,126 CRITICAL Log critical message
+2024-01-06 10:26:42,126 WARNING Log warning Message
+2024-01-06 10:26:42,126 ERROR Log error message
+2024-01-06 10:26:42,127 WARNING Log warning Message
+2024-01-06 10:26:42,127 ERROR Log error message
+2024-01-06 10:26:42,127 WARNING Log warning Message
+2024-01-06 10:26:42,127 CRITICAL Log critical message
+2024-01-06 10:26:42,128 WARNING Log warning Message
+2024-01-06 10:26:42,128 ERROR Log error message
+2024-01-06 10:26:42,128 WARNING Log warning Message
+2024-01-06 10:26:42,128 ERROR Log error message
+2024-01-06 10:26:42,128 WARNING Log warning Message
+2024-01-06 10:27:36,667 DEBUG diff parser start
+2024-01-06 10:27:36,667 DEBUG line_lengths old: 11; new: 10
+2024-01-06 10:27:36,667 DEBUG -> code[equal] old[1:7] new[1:7]
+2024-01-06 10:27:36,683 DEBUG copy old[1:5] new[1:5]
+2024-01-06 10:27:36,683 DEBUG parse_part from 6 to 10 (to 9 in part parser)
+2024-01-06 10:27:36,683 DEBUG -> code[replace] old[8:11] new[8:10]
+2024-01-06 10:27:36,683 DEBUG diff parser end
+2024-01-06 10:27:40,727 DEBUG diff parser start
+2024-01-06 10:27:40,743 DEBUG line_lengths old: 10; new: 11
+2024-01-06 10:27:40,743 DEBUG -> code[equal] old[1:9] new[1:9]
+2024-01-06 10:27:40,743 DEBUG copy old[1:5] new[1:5]
+2024-01-06 10:27:40,743 DEBUG parse_part from 6 to 11 (to 10 in part parser)
+2024-01-06 10:27:40,743 DEBUG -> code[replace] old[10:10] new[10:11]
+2024-01-06 10:27:40,743 DEBUG diff parser end
+2024-01-06 10:27:43,970 DEBUG diff parser start
+2024-01-06 10:27:43,970 DEBUG line_lengths old: 11; new: 11
+2024-01-06 10:27:43,985 DEBUG -> code[equal] old[1:10] new[1:10]
+2024-01-06 10:27:43,985 DEBUG copy old[1:5] new[1:5]
+2024-01-06 10:27:43,985 DEBUG parse_part from 6 to 11 (to 10 in part parser)
+2024-01-06 10:27:43,985 DEBUG -> code[replace] old[11:11] new[11:11]
+2024-01-06 10:27:43,991 DEBUG diff parser end
+2024-01-06 10:28:02,238 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,239 WARNING Log warning Message
+2024-01-06 10:28:02,239 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,239 ERROR Log error message
+2024-01-06 10:28:02,239 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,240 WARNING Log warning Message
+2024-01-06 10:28:02,240 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,240 CRITICAL Log critical message
+2024-01-06 10:28:02,240 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,241 WARNING Log warning Message
+2024-01-06 10:28:02,241 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,241 ERROR Log error message
+2024-01-06 10:28:02,241 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,242 WARNING Log warning Message
+2024-01-06 10:28:02,242 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,242 ERROR Log error message
+2024-01-06 10:28:02,243 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,243 WARNING Log warning Message
+2024-01-06 10:28:02,244 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,244 CRITICAL Log critical message
+2024-01-06 10:28:02,244 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,244 WARNING Log warning Message
+2024-01-06 10:28:02,245 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,245 ERROR Log error message
+2024-01-06 10:28:02,245 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,245 WARNING Log warning Message
+2024-01-06 10:28:02,245 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,246 ERROR Log error message
+2024-01-06 10:28:02,246 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\2606193944.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:02,246 WARNING Log warning Message
+2024-01-06 10:28:18,001 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,002 WARNING Log warning Message
+2024-01-06 10:28:18,002 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,003 ERROR Log error message
+2024-01-06 10:28:18,003 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,003 WARNING Log warning Message
+2024-01-06 10:28:18,004 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,004 CRITICAL Log critical message
+2024-01-06 10:28:18,004 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,005 WARNING Log warning Message
+2024-01-06 10:28:18,006 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,006 ERROR Log error message
+2024-01-06 10:28:18,006 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,006 WARNING Log warning Message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 ERROR Log error message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 WARNING Log warning Message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 CRITICAL Log critical message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 WARNING Log warning Message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 ERROR Log error message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 WARNING Log warning Message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 ERROR Log error message
+2024-01-06 10:28:18,007 ERROR Division error
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\3585075058.py", line 9, in <module>
+    i = i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:28:18,007 WARNING Log warning Message
+2024-01-06 10:29:31,002 DEBUG diff parser start
+2024-01-06 10:29:31,002 DEBUG line_lengths old: 11; new: 4
+2024-01-06 10:29:31,002 DEBUG -> code[replace] old[1:11] new[1:4]
+2024-01-06 10:29:31,002 DEBUG parse_part from 1 to 4 (to 3 in part parser)
+2024-01-06 10:29:31,002 DEBUG diff parser end
+2024-01-06 10:29:32,886 DEBUG diff parser start
+2024-01-06 10:29:32,886 DEBUG line_lengths old: 4; new: 4
+2024-01-06 10:29:32,886 DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-06 10:29:32,886 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:29:32,886 DEBUG parse_part from 2 to 4 (to 3 in part parser)
+2024-01-06 10:29:32,886 DEBUG -> code[replace] old[4:4] new[4:4]
+2024-01-06 10:29:32,886 DEBUG diff parser end
+2024-01-06 10:29:37,698 DEBUG diff parser start
+2024-01-06 10:29:37,698 DEBUG line_lengths old: 4; new: 5
+2024-01-06 10:29:37,698 DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-06 10:29:37,698 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:29:37,714 DEBUG parse_part from 2 to 5 (to 4 in part parser)
+2024-01-06 10:29:37,714 DEBUG -> code[replace] old[4:4] new[4:5]
+2024-01-06 10:29:37,714 DEBUG diff parser end
+2024-01-06 10:29:41,080 DEBUG diff parser start
+2024-01-06 10:29:41,080 DEBUG line_lengths old: 5; new: 5
+2024-01-06 10:29:41,080 DEBUG -> code[equal] old[1:4] new[1:4]
+2024-01-06 10:29:41,080 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:29:41,080 DEBUG parse_part from 2 to 5 (to 4 in part parser)
+2024-01-06 10:29:41,080 DEBUG -> code[replace] old[5:5] new[5:5]
+2024-01-06 10:29:41,095 DEBUG diff parser end
+2024-01-06 10:30:06,495 ERROR Exception occureddivision by zero
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_10232\1841407400.py", line 3, in <module>
+    i=i/0
+ZeroDivisionError: division by zero
+2024-01-06 10:39:08,231 DEBUG diff parser start
+2024-01-06 10:39:08,231 DEBUG line_lengths old: 5; new: 1
+2024-01-06 10:39:08,231 DEBUG -> code[replace] old[1:5] new[1:1]
+2024-01-06 10:39:08,237 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 10:39:08,237 DEBUG diff parser end
+2024-01-06 10:39:20,294 DEBUG diff parser start
+2024-01-06 10:39:20,294 DEBUG line_lengths old: 1; new: 1
+2024-01-06 10:39:20,294 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 10:39:20,294 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 10:39:20,294 DEBUG diff parser end
+2024-01-06 10:40:15,174 DEBUG diff parser start
+2024-01-06 10:40:15,174 DEBUG line_lengths old: 1; new: 6
+2024-01-06 10:40:15,174 DEBUG -> code[replace] old[1:1] new[1:6]
+2024-01-06 10:40:15,174 DEBUG parse_part from 1 to 6 (to 5 in part parser)
+2024-01-06 10:40:15,174 DEBUG diff parser end
+2024-01-06 10:40:19,419 DEBUG diff parser start
+2024-01-06 10:40:19,419 DEBUG line_lengths old: 6; new: 6
+2024-01-06 10:40:19,435 DEBUG -> code[equal] old[1:5] new[1:5]
+2024-01-06 10:40:19,435 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:40:19,435 DEBUG parse_part from 2 to 6 (to 5 in part parser)
+2024-01-06 10:40:19,435 DEBUG -> code[replace] old[6:6] new[6:6]
+2024-01-06 10:40:19,435 DEBUG diff parser end
+2024-01-06 10:40:28,147 DEBUG diff parser start
+2024-01-06 10:40:28,147 DEBUG line_lengths old: 6; new: 6
+2024-01-06 10:40:28,147 DEBUG -> code[equal] old[1:5] new[1:5]
+2024-01-06 10:40:28,162 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:40:28,162 DEBUG parse_part from 2 to 6 (to 5 in part parser)
+2024-01-06 10:40:28,162 DEBUG -> code[replace] old[6:6] new[6:6]
+2024-01-06 10:40:28,162 DEBUG diff parser end
+2024-01-06 10:40:28,260 DEBUG pickle loaded: C:\Users\Admin\AppData\Local\anaconda3\lib\typing.py
+2024-01-06 10:40:28,291 DEBUG pickle loaded: C:\Users\Admin\AppData\Local\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2024-01-06 10:40:35,515 DEBUG diff parser start
+2024-01-06 10:40:35,515 DEBUG line_lengths old: 6; new: 7
+2024-01-06 10:40:35,522 DEBUG -> code[equal] old[1:5] new[1:5]
+2024-01-06 10:40:35,522 DEBUG copy old[1:1] new[1:1]
+2024-01-06 10:40:35,522 DEBUG parse_part from 2 to 6 (to 6 in part parser)
+2024-01-06 10:40:35,522 DEBUG -> code[replace] old[6:6] new[6:7]
+2024-01-06 10:40:35,522 DEBUG parse_part from 7 to 7 (to 6 in part parser)
+2024-01-06 10:40:35,528 DEBUG diff parser end
+2024-01-06 10:40:57,405 DEBUG diff parser start
+2024-01-06 10:40:57,405 DEBUG line_lengths old: 7; new: 2
+2024-01-06 10:40:57,405 DEBUG -> code[replace] old[1:7] new[1:2]
+2024-01-06 10:40:57,405 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2024-01-06 10:40:57,405 DEBUG diff parser end
+2024-01-06 10:40:59,659 DEBUG diff parser start
+2024-01-06 10:40:59,659 DEBUG line_lengths old: 2; new: 2
+2024-01-06 10:40:59,659 DEBUG -> code[equal] old[1:1] new[1:1]
+2024-01-06 10:40:59,675 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2024-01-06 10:40:59,675 DEBUG -> code[replace] old[2:2] new[2:2]
+2024-01-06 10:40:59,675 DEBUG diff parser end
+2024-01-06 10:47:51,062 DEBUG diff parser start
+2024-01-06 10:47:51,078 DEBUG line_lengths old: 2; new: 3
+2024-01-06 10:47:51,078 DEBUG -> code[replace] old[1:2] new[1:3]
+2024-01-06 10:47:51,078 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2024-01-06 10:47:51,078 DEBUG diff parser end
+2024-01-06 10:49:35,505 DEBUG diff parser start
+2024-01-06 10:49:35,505 DEBUG line_lengths old: 3; new: 4
+2024-01-06 10:49:35,505 DEBUG -> code[equal] old[1:1] new[1:1]
+2024-01-06 10:49:35,505 DEBUG parse_part from 1 to 3 (to 3 in part parser)
+2024-01-06 10:49:35,505 DEBUG -> code[replace] old[2:3] new[2:4]
+2024-01-06 10:49:35,505 DEBUG parse_part from 4 to 4 (to 3 in part parser)
+2024-01-06 10:49:35,505 DEBUG diff parser end
+2024-01-06 10:49:37,775 DEBUG diff parser start
+2024-01-06 10:49:37,775 DEBUG line_lengths old: 4; new: 4
+2024-01-06 10:49:37,775 DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-06 10:49:37,775 DEBUG copy old[3:3] new[1:3]
+2024-01-06 10:49:37,775 DEBUG -> code[replace] old[4:4] new[4:4]
+2024-01-06 10:49:37,775 DEBUG parse_part from 4 to 4 (to 3 in part parser)
+2024-01-06 10:49:37,775 DEBUG diff parser end
+2024-01-06 11:41:40,100 DEBUG diff parser start
+2024-01-06 11:41:40,100 DEBUG line_lengths old: 4; new: 5
+2024-01-06 11:41:40,100 DEBUG -> code[replace] old[1:4] new[1:5]
+2024-01-06 11:41:40,100 DEBUG parse_part from 1 to 5 (to 4 in part parser)
+2024-01-06 11:41:40,100 DEBUG diff parser end
+2024-01-06 11:42:08,446 DEBUG diff parser start
+2024-01-06 11:42:08,446 DEBUG line_lengths old: 5; new: 1
+2024-01-06 11:42:08,446 DEBUG -> code[replace] old[1:5] new[1:1]
+2024-01-06 11:42:08,446 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:42:08,446 DEBUG diff parser end
+2024-01-06 11:42:10,444 DEBUG diff parser start
+2024-01-06 11:42:10,444 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:42:10,444 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:42:10,460 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:42:10,460 DEBUG diff parser end
+2024-01-06 11:42:12,166 DEBUG diff parser start
+2024-01-06 11:42:12,166 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:42:12,166 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:42:12,166 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:42:12,166 DEBUG diff parser end
+2024-01-06 11:42:17,969 DEBUG diff parser start
+2024-01-06 11:42:17,984 DEBUG line_lengths old: 1; new: 3
+2024-01-06 11:42:17,984 DEBUG -> code[replace] old[1:1] new[1:3]
+2024-01-06 11:42:17,984 DEBUG parse_part from 1 to 3 (to 2 in part parser)
+2024-01-06 11:42:17,984 DEBUG diff parser end
+2024-01-06 11:42:54,523 DEBUG diff parser start
+2024-01-06 11:42:54,523 DEBUG line_lengths old: 3; new: 9
+2024-01-06 11:42:54,523 DEBUG -> code[equal] old[1:2] new[1:2]
+2024-01-06 11:42:54,523 DEBUG copy old[1:1] new[1:1]
+2024-01-06 11:42:54,523 DEBUG parse_part from 2 to 7 (to 8 in part parser)
+2024-01-06 11:42:54,523 DEBUG -> code[replace] old[3:3] new[3:9]
+2024-01-06 11:42:54,539 DEBUG parse_part from 8 to 9 (to 8 in part parser)
+2024-01-06 11:42:54,540 DEBUG diff parser end
+2024-01-06 11:43:15,755 DEBUG diff parser start
+2024-01-06 11:43:15,770 DEBUG line_lengths old: 9; new: 1
+2024-01-06 11:43:15,770 DEBUG -> code[replace] old[1:9] new[1:1]
+2024-01-06 11:43:15,770 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:43:15,770 DEBUG diff parser end
+2024-01-06 11:44:10,451 DEBUG diff parser start
+2024-01-06 11:44:10,467 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:44:10,467 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:44:10,467 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:44:10,467 DEBUG diff parser end
+2024-01-06 11:44:50,809 DEBUG diff parser start
+2024-01-06 11:44:50,809 DEBUG line_lengths old: 1; new: 7
+2024-01-06 11:44:50,809 DEBUG -> code[replace] old[1:1] new[1:7]
+2024-01-06 11:44:50,809 DEBUG parse_part from 1 to 7 (to 6 in part parser)
+2024-01-06 11:44:50,809 DEBUG diff parser end
+2024-01-06 11:45:20,171 DEBUG diff parser start
+2024-01-06 11:45:20,171 DEBUG line_lengths old: 7; new: 1
+2024-01-06 11:45:20,171 DEBUG -> code[replace] old[1:7] new[1:1]
+2024-01-06 11:45:20,171 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:45:20,171 DEBUG diff parser end
+2024-01-06 11:45:32,530 DEBUG diff parser start
+2024-01-06 11:45:32,530 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:45:32,530 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:45:32,530 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:45:32,530 DEBUG diff parser end
+2024-01-06 11:45:55,907 DEBUG diff parser start
+2024-01-06 11:45:55,922 DEBUG line_lengths old: 1; new: 4
+2024-01-06 11:45:55,922 DEBUG -> code[replace] old[1:1] new[1:4]
+2024-01-06 11:45:55,922 DEBUG parse_part from 1 to 4 (to 3 in part parser)
+2024-01-06 11:45:55,922 DEBUG diff parser end
+2024-01-06 11:46:31,908 DEBUG diff parser start
+2024-01-06 11:46:31,908 DEBUG line_lengths old: 4; new: 8
+2024-01-06 11:46:31,924 DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-06 11:46:31,924 DEBUG parse_part from 1 to 7 (to 7 in part parser)
+2024-01-06 11:46:31,924 DEBUG -> code[replace] old[4:4] new[4:8]
+2024-01-06 11:46:31,924 DEBUG parse_part from 8 to 8 (to 7 in part parser)
+2024-01-06 11:46:31,924 DEBUG diff parser end
+2024-01-06 11:46:33,605 DEBUG diff parser start
+2024-01-06 11:46:33,605 DEBUG line_lengths old: 8; new: 8
+2024-01-06 11:46:33,605 DEBUG -> code[equal] old[1:7] new[1:7]
+2024-01-06 11:46:33,605 DEBUG copy old[4:7] new[1:7]
+2024-01-06 11:46:33,605 DEBUG -> code[replace] old[8:8] new[8:8]
+2024-01-06 11:46:33,605 DEBUG parse_part from 8 to 7 (to 7 in part parser)
+2024-01-06 11:46:33,605 DEBUG parse_part from 8 to 8 (to 7 in part parser)
+2024-01-06 11:46:33,605 DEBUG diff parser end
+2024-01-06 11:47:31,536 DEBUG diff parser start
+2024-01-06 11:47:31,536 DEBUG line_lengths old: 8; new: 4
+2024-01-06 11:47:31,536 DEBUG -> code[equal] old[1:3] new[1:3]
+2024-01-06 11:47:31,536 DEBUG parse_part from 1 to 4 (to 3 in part parser)
+2024-01-06 11:47:31,536 DEBUG -> code[replace] old[4:8] new[4:4]
+2024-01-06 11:47:31,552 DEBUG diff parser end
+2024-01-06 11:48:27,217 DEBUG diff parser start
+2024-01-06 11:48:27,217 DEBUG line_lengths old: 4; new: 8
+2024-01-06 11:48:27,217 DEBUG -> code[insert] old[1:0] new[1:1]
+2024-01-06 11:48:27,217 DEBUG parse_part from 1 to 6 (to 7 in part parser)
+2024-01-06 11:48:27,217 DEBUG -> code[equal] old[1:1] new[2:2]
+2024-01-06 11:48:27,232 DEBUG -> code[replace] old[2:2] new[3:6]
+2024-01-06 11:48:27,232 DEBUG -> code[equal] old[3:3] new[7:7]
+2024-01-06 11:48:27,232 DEBUG parse_part from 7 to 8 (to 7 in part parser)
+2024-01-06 11:48:27,236 DEBUG -> code[replace] old[4:4] new[8:8]
+2024-01-06 11:48:27,237 DEBUG diff parser end
+2024-01-06 11:48:31,091 DEBUG diff parser start
+2024-01-06 11:48:31,098 DEBUG line_lengths old: 8; new: 8
+2024-01-06 11:48:31,098 DEBUG -> code[equal] old[1:7] new[1:7]
+2024-01-06 11:48:31,098 DEBUG copy old[3:6] new[1:6]
+2024-01-06 11:48:31,098 DEBUG parse_part from 7 to 7 (to 7 in part parser)
+2024-01-06 11:48:31,098 DEBUG -> code[replace] old[8:8] new[8:8]
+2024-01-06 11:48:31,105 DEBUG parse_part from 8 to 8 (to 7 in part parser)
+2024-01-06 11:48:31,106 DEBUG diff parser end
+2024-01-06 11:49:57,236 DEBUG diff parser start
+2024-01-06 11:49:57,236 DEBUG line_lengths old: 8; new: 13
+2024-01-06 11:49:57,236 DEBUG -> code[equal] old[1:7] new[1:7]
+2024-01-06 11:49:57,236 DEBUG copy old[3:6] new[1:6]
+2024-01-06 11:49:57,236 DEBUG parse_part from 7 to 7 (to 7 in part parser)
+2024-01-06 11:49:57,236 DEBUG -> code[replace] old[8:8] new[8:13]
+2024-01-06 11:49:57,253 DEBUG parse_part from 8 to 13 (to 12 in part parser)
+2024-01-06 11:49:57,253 DEBUG diff parser end
+2024-01-06 11:50:19,277 DEBUG diff parser start
+2024-01-06 11:50:19,277 DEBUG line_lengths old: 13; new: 14
+2024-01-06 11:50:19,292 DEBUG -> code[equal] old[1:12] new[1:12]
+2024-01-06 11:50:19,292 DEBUG copy old[3:11] new[1:11]
+2024-01-06 11:50:19,292 DEBUG parse_part from 12 to 12 (to 12 in part parser)
+2024-01-06 11:50:19,292 DEBUG -> code[replace] old[13:13] new[13:14]
+2024-01-06 11:50:19,292 DEBUG parse_part from 13 to 14 (to 13 in part parser)
+2024-01-06 11:50:19,301 DEBUG diff parser end
+2024-01-06 11:50:36,465 DEBUG diff parser start
+2024-01-06 11:50:36,465 DEBUG line_lengths old: 14; new: 1
+2024-01-06 11:50:36,465 DEBUG -> code[replace] old[1:14] new[1:1]
+2024-01-06 11:50:36,465 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:50:36,465 DEBUG diff parser end
+2024-01-06 11:51:51,637 DEBUG diff parser start
+2024-01-06 11:51:51,637 DEBUG line_lengths old: 1; new: 9
+2024-01-06 11:51:51,637 DEBUG -> code[replace] old[1:1] new[1:9]
+2024-01-06 11:51:51,637 DEBUG parse_part from 1 to 9 (to 8 in part parser)
+2024-01-06 11:51:51,637 DEBUG diff parser end
+2024-01-06 11:53:08,250 DEBUG diff parser start
+2024-01-06 11:53:08,250 DEBUG line_lengths old: 9; new: 15
+2024-01-06 11:53:08,250 DEBUG -> code[equal] old[1:8] new[1:8]
+2024-01-06 11:53:08,250 DEBUG copy old[3:7] new[1:7]
+2024-01-06 11:53:08,250 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2024-01-06 11:53:08,250 DEBUG -> code[replace] old[9:9] new[9:15]
+2024-01-06 11:53:08,262 DEBUG parse_part from 9 to 15 (to 14 in part parser)
+2024-01-06 11:53:08,262 DEBUG diff parser end
+2024-01-06 11:53:39,589 DEBUG diff parser start
+2024-01-06 11:53:39,589 DEBUG line_lengths old: 15; new: 16
+2024-01-06 11:53:39,589 DEBUG -> code[equal] old[1:14] new[1:14]
+2024-01-06 11:53:39,589 DEBUG copy old[3:13] new[1:13]
+2024-01-06 11:53:39,589 DEBUG parse_part from 14 to 14 (to 14 in part parser)
+2024-01-06 11:53:39,589 DEBUG -> code[replace] old[15:15] new[15:16]
+2024-01-06 11:53:39,589 DEBUG parse_part from 15 to 16 (to 15 in part parser)
+2024-01-06 11:53:39,589 DEBUG diff parser end
+2024-01-06 11:54:10,175 DEBUG diff parser start
+2024-01-06 11:54:10,175 DEBUG line_lengths old: 16; new: 1
+2024-01-06 11:54:10,175 DEBUG -> code[replace] old[1:16] new[1:1]
+2024-01-06 11:54:10,175 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:54:10,175 DEBUG diff parser end
+2024-01-06 11:54:29,218 DEBUG diff parser start
+2024-01-06 11:54:29,234 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:54:29,234 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:54:29,234 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:54:29,234 DEBUG diff parser end
+2024-01-06 11:54:31,247 DEBUG diff parser start
+2024-01-06 11:54:31,247 DEBUG line_lengths old: 1; new: 1
+2024-01-06 11:54:31,247 DEBUG -> code[replace] old[1:1] new[1:1]
+2024-01-06 11:54:31,247 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2024-01-06 11:54:31,247 DEBUG diff parser end
