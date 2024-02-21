@@ -1,0 +1,17 @@
+Divide the dataset into independent and dependent feature
+1. divide the dataset into train and test
+2.Feature Scaling - Standardization
+3. Model Training
+4.Model fit
+5.Coefficient and intercept
+6.Prediction
+7.MSE,MAE,RMSE
+
+GIT commands:
+
+git init
+git add . (before craete .gitignore)
+git commit -m "first commit"
+git branch -M main
+git remote add origin
+git push -u origin main
